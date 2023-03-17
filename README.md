@@ -1,3 +1,17 @@
+Uploaded updated files (17-03-2023): index.html and app.js
+
+Proof-of-cocnept using Javascript onLoad functionality to generate and print random excuses
+Minimal Bootstrap usage
+
+***************************************************************************************************************
+
+Exercise #08 - Instagram feed using Boostrap frontend framework, without explciit CSS
+
+Mark received:
+Date: 
+Teacher:
+
+***************************************************************************************************************
 # Hello World with Vanilla JS
 
 Start coding a JS/HTML/CSS website in 30 seconds by opening this template in codespaces (coming soon) or [gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/vanillajs-hello.git).
