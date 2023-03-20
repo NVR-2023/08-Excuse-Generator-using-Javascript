@@ -1,3 +1,11 @@
+Uploaded updated files (20-03-2023): index.html and app.js
+
+- Added button
+- General restructuring of App.js code
+
+
+***************************************************************************************************************
+
 Uploaded updated files (17-03-2023): index.html and app.js
 
 Proof-of-cocnept using Javascript onLoad functionality to generate and print random excuses
